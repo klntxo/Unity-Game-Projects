@@ -6,7 +6,8 @@
 **Team of 4:** Rae Ean, Xin Hui, Cleo and me (Kia Lent)
 **My role:** enemy AI, the shove, enemy animations, camera shake and all game audio
 
-▶ **Full gameplay video:** [klntxo.github.io/portfolio](https://klntxo.github.io/portfolio/#portfolio)
+▶ **Full gameplay video (HD, with sound):** [Watch on YouTube](https://youtu.be/Zcf_ynQDqSg)  
+🌐 **Portfolio:** [klntxo.github.io/portfolio](https://klntxo.github.io/portfolio/#portfolio)
 
 ## The brief
 Recreate Left 4 Dead in Unity as a team of four.
